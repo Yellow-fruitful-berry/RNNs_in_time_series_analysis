@@ -1,0 +1,3 @@
+This is a project for my university diploma. Here I use Recurrent Neural Networks for time series prediction. Through experimental evidence, I have made a conclusion that LSTM-based models perform the best, especially on non-stationary data. The old ARIMA models are performing rather poorly and can only really be used for data with small amount of entries, where neural networks have little effect.
+Datasets used include data from Sophist HSE - Higher School of Economics statistical data on Russian demographics, economy performance indicators and so on.
+Another thing I have used was stock data, where there is more data to really test the models and get away from university-provided playground examples.
